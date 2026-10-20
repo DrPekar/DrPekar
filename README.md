@@ -6,22 +6,20 @@
                     <img src="https://i.pinimg.com/originals/ac/58/7a/ac587a35b2783b44291205eaa5b3df96.png" width="75" title="AAU logo">
                     Martin Pekár
                 </h1>
-                <h3>PhD fellow at the Department of Computer Science, Aalborg University</h3>
+                <h3>PhD in Semantic Data Lakes</h3>
                 <p>
                     <b>About me</b>
                 </p>
                 <p>
                     My research area is in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search utilizing a reference knowledge graph (KG).
-                    My research includes table-to-KG entity linking and (adaptive) (filtered) approximate nearest neighbor vector search.
+                    My research includes semantic table search, table-to-KG entity linking, and multi-criteria ranking.
                     Scalability is a substantial part of my research.
                 </p>
                 <p>
                     <b>Contact</b>
                 </p>
                 <p>
-                    E-mail: mpch@cs.aau.dk
-                    <br>
-                    Twitter (X): <a href="https://twitter.com/MartinkoPekar">@MartinkoPekar</a>
+                    E-mail: martin.pekar(at)outlook.dk
                 </p>
             </div>
        </div>
