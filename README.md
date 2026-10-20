@@ -12,8 +12,8 @@
                 </p>
                 <p>
                     My research area is in semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search utilizing a reference knowledge graph (KG).
-                    My research includes **semantic table search**, **table-to-KG entity linking**, and **multi-criteria ranking**.
-                    **Scalability** is a substantial part of my research.
+                    My research includes *semantic table search*, *table-to-KG entity linking*, and *multi-criteria ranking*.
+                    *Scalability* is a substantial part of my research.
                 </p>
                 <p>
                     <b>Contact</b>
